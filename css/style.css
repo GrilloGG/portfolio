@@ -1,4 +1,65 @@
-*{
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Spartan', sans-serif;
+/* Basic variables */
+:root {
+    --ff-primary: 'Montserrat', sans-serif;
+    --ff-secondary: 'Spartan', sans-serif; 
+
+    --fw-light: 100;
+    --fw-regular: 300;
+    --fw-bold: 700;
+
+    --clr-light: #53a1b5;
+    --clr-dark: #011128;
+    --clr-accent: #f8a08c;
+    --clr-bright: #fce181;
+
+    --fs-h1: 3rem;
+    --fs-h2: 2rem;
+    --fs-h3: 1.5rem;
+    --fs-body: 1rem;
+}
+
+
+h1{
+    font-size: var(--fs-h1);
+}
+
+h2{
+    font-size: var(--fs-h2);
+}
+
+h3{
+    font-size: var(--fs-h3);
+}
+
+p{
+    font-size: var(--fs-body);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px){
+   :root {
+    --fs-h1: 3.8rem;
+    --fs-h2: 2.5rem;
+    --fs-h3: 1.9rem;
+    --fs-body: 1.25rem;
+   }
 }
