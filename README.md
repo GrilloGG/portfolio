@@ -33,3 +33,7 @@ I have assigned some universal custom properties to be able to change the layout
 - Contact me section (while having the mouse on email)
 
 ![Home Page](./img//portfolio-contact.jpg)
+
+## Link to website
+
+https://grillogg.github.io/week2-homework/
