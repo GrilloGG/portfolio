@@ -36,4 +36,4 @@ I have assigned some universal custom properties to be able to change the layout
 
 ## Link to website
 
-https://grillogg.github.io/week2-homework/
+https://grillogg.github.io/portfolio/
