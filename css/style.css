@@ -155,8 +155,8 @@ p{
     margin: 5px;
 }
 
-.project1{background-image: url("../img/project01.jpg");}
-.project2{background-image: url("../img/project02.jpg");}
+.project1{background-image: url("../img/project-01.jpg");}
+.project2{background-image: url("../img/weather-dashboard.png");}
 .project3{background-image: url("../img/project03.jpg");}
 .project4{background-image: url("../img/project04.jpg");}
 .project5{background-image: url("../img/project05.jpg");}
